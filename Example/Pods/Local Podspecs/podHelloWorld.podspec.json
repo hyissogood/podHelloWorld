@@ -1,0 +1,22 @@
+{
+  "name": "podHelloWorld",
+  "version": "0.1.0",
+  "summary": "A short description of podHelloWorld.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hyissogood@163.com/podHelloWorld",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hyissogood@163.com": "hyissogood@163.com"
+  },
+  "source": {
+    "git": "https://github.com/hyissogood/podHelloWorld.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podHelloWorld/Classes/**/*"
+}
