@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # podHelloWorld
 
 [![CI Status](https://img.shields.io/travis/hyissogood@163.com/podHelloWorld.svg?style=flat)](https://travis-ci.org/hyissogood@163.com/podHelloWorld)
@@ -27,3 +28,7 @@ hyissogood@163.com, hyissogood@163.com
 ## License
 
 podHelloWorld is available under the MIT license. See the LICENSE file for more info.
+=======
+# podHelloWorld
+>>>>>>> 555a1d19704a42d7e2767fd115fb116d43c11a50
+# podHelloWorld
